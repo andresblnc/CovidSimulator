@@ -17,12 +17,12 @@ People will be infected by other people that are on neighboring cells. The proba
 One random cell will get an infected person.
 
 ------------------------------------------------
-If none have mask and the healthy person is not vaccinated chances are 90%
-If none have mask and the healthy person is vaccinated chances are 45%
-If one has a mask and the healthy person is not vaccinated chances are 20%
-If one has a mask and the healthy person is vaccinated chances are 15%
-If both have a mask and the healthy person is not vaccinated chances are 10%
-If both have a mask and the healthy person is vaccinated chances are 5%
+If none have mask and the healthy person is not vaccinated chances are 90%  
+If none have mask and the healthy person is vaccinated chances are 45%  
+If one has a mask and the healthy person is not vaccinated chances are 20%  
+If one has a mask and the healthy person is vaccinated chances are 15%  
+If both have a mask and the healthy person is not vaccinated chances are 10%  
+If both have a mask and the healthy person is vaccinated chances are 5%  
 
 ----------
 Also, each sick person has a counter, every day he has a 10% chance of dying if he is not vaccinated or a 2% chance if he is. After 8 days, if the person is still alive, he will recover. After recovering he cannot be infected again.
